@@ -6,13 +6,14 @@ title: Longeve
 # logo:
 
 lang: en_EU
+timezone: UTC
 
 twitter:
   username: longeve
   # card: summary
 
 # host: longeve.com
-# url: https://longeve.com
+url: "https://longeve.com"
 # baseurl: ""
 
 # google_site_verification:
@@ -22,8 +23,11 @@ twitter:
 plugins:
   - jekyll-default-layout
   - jekyll-feed
+  - jekyll-optional-front-matter
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
 
 markdown: CommonMarkGhPages
 commonmark:
@@ -31,3 +35,7 @@ commonmark:
   extensions: ["autolink", "table"]
 # https://github.com/gjtorikian/commonmarker
 
+optional_front_matter:
+  remove_originals: true
+titles_from_headings:
+  strip_title: false
