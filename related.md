@@ -8,4 +8,4 @@
 
 ## Programming Languages
 
-- Paul Graham, [The Hundred-Year Language](http://www.paulgraham.com/hundred.html), 2003. On Lisp and Arc.
+- Paul Graham, "[The Hundred-Year Language](http://www.paulgraham.com/hundred.html)", 2003. On Lisp and Arc.
