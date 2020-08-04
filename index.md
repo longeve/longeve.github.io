@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # Longeve
@@ -7,4 +8,4 @@
 
 ## Longeve Website
 
-The first live experiment is about making [a website that lasts 100 years](website/).
+The first live experiment is about making [a website that lasts 100 years](website/index.md).
