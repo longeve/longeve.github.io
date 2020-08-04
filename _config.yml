@@ -2,6 +2,16 @@
 title: Longeve
 
 # host: longeve.com
+# url: https://longeve.com
 # baseurl: ""
 
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["autolink", "table"]
+# https://github.com/gjtorikian/commonmarker
 
