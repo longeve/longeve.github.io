@@ -1,11 +1,27 @@
 
 title: Longeve
+# name?
+# tagline:
+# description:
+# logo:
+
+lang: en_EU
+
+twitter:
+  username: longeve
+  # card: summary
 
 # host: longeve.com
 # url: https://longeve.com
 # baseurl: ""
 
+# google_site_verification:
+# webmaster_verifications:
+#   google:
+
 plugins:
+  - jekyll-default-layout
+  - jekyll-feed
   - jekyll-relative-links
   - jekyll-seo-tag
 
