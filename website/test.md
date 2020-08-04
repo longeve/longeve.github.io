@@ -1,13 +1,13 @@
 ---
 ---
 
-<div style="font-feature-settings: 'ornm' 1; ">
+<div style='font-feature-settings: "ornm";'>
 
 Un "due" tre -- quattro?
 
 </div>
 
-<div style="font-feature-settings: 'c2sc' 1;">
+<div style='font-feature-settings: "smcp";'>
 
 ABC abc Abc
   
