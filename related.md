@@ -9,3 +9,12 @@
 ## Programming Languages
 
 - Paul Graham, "[The Hundred-Year Language](http://www.paulgraham.com/hundred.html)", 2003. On Lisp and Arc.
+
+
+## Programs and Applications
+
+- Bill Joy, [vi](https://en.wikipedia.org/wiki/Vi), 1976.
+
+- [Emacs](https://en.wikipedia.org/wiki/Emacs), 1970s. Richard Stallman, [GNU Emacs](https://www.gnu.org/software/emacs/), 1985.
+
+- Donald Knuth, [TeX](https://en.wikipedia.org/wiki/TeX), 1978.
