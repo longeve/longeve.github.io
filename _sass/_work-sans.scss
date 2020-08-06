@@ -6,6 +6,7 @@
   src: local(''),
        url('../fonts/WorkSans-Light.woff2') format('woff2'),
        url('../fonts/WorkSans-Light.woff') format('woff');
+  font-display: swap;
 }
 
 @font-face {
@@ -15,6 +16,7 @@
   src: local(''),
        url('../fonts/WorkSans-Regular.woff2') format('woff2'),
        url('../fonts/WorkSans-Regular.woff') format('woff');
+  font-display: swap;
 }
 
 @font-face {
@@ -24,6 +26,7 @@
   src: local(''),
        url('../fonts/WorkSans-Bold.woff2') format('woff2'),
        url('../fonts/WorkSans-Bold.woff') format('woff');
+  font-display: swap;
 }
 
 @font-face {
@@ -33,6 +36,7 @@
   src: local(''),
        url('../fonts/WorkSans-Black.woff2') format('woff2'),
        url('../fonts/WorkSans-Black.woff') format('woff');
+  font-display: swap;
 }
 
 @font-face {
@@ -42,4 +46,5 @@
   src: local(''),
        url('../fonts/WorkSans-Italic.woff2') format('woff2'),
        url('../fonts/WorkSans-Italic.woff') format('woff');
+  font-display: swap;
 }
