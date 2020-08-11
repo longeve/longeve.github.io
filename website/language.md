@@ -1,0 +1,7 @@
+---
+---
+
+## Language
+
+We use **English**.
+
