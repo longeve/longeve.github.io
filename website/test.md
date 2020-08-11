@@ -12,3 +12,5 @@ Un "due" tre -- quattro?
 ABC abc Abc
   
 </div>
+
+{% include_relative language.md foo="bar" %}
