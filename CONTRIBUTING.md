@@ -6,7 +6,7 @@ Note that we have a [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Longeve
 
-**Longeve** is a small project about lasting digital goods.
+**Longeve** is a small project about lasting digital objects.
 
 ## Longeve Website
 
