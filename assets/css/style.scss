@@ -4,12 +4,97 @@
 @import 'fonts';
 
 
+
+$q: 4px;
+
+$u: $q * 7;
+$u-sm: $q * 6;
+
+$ratio: 1.42;
+
+
 body {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    font-size: $u / $ratio;
+    line-height: $u;
+}
+
+.longeve-logo {
+    font-family: "Infini", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-rendering: optimizeLegibility;
+    font-smoothing: antialiased;
+    font-feature-settings: "smcp", "c2sc", "liga", "dlig";
 }
 
 h1 {
     font-weight: 900;
-    font-feature-settings: "cswh" 1;
+    // font-feature-settings: "cswh";
+    font-feature-settings: "smcp", "c2sc", "case", "titl", "swsh", "cswh", "calt", "hist", "liga", "clig", "kern", "size";
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body > main {
+    padding: $q * 4 $q * 8;
+    @media screen and (min-width: 1024px) {
+        padding: $q * 4 $q * 16;
+    }
+}
+body > header,
+body > footer {
+    padding: $q * 2 $q * 8;
+    @media screen and (min-width: 1024px) {
+        padding: $q * 2 $q * 16;
+    }
+    p {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+
+body > footer {
+    font-size: $u-sm / $ratio;
+    line-height: $u-sm;
+}
+
+p {
+    margin: $q * 2 0;
+    padding: 0;
+    font-feature-settings: "kern", "onum", "pnum", "calt", "liga", "size";
+    max-width: 48em;
+}
+
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: inherit;
+    &:hover {
+        text-decoration: underline;
+        color: #900;
+    }
+}
+p a:link {
+    font-weight: 600;
+}
+
+
+
+body {
+    background: #eee;
+    & > main {
+        background: #fff;
+    }
+    & > header,
+    & > footer {
+        background: #eee;
+    }
 }
 
