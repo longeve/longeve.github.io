@@ -14,6 +14,8 @@
 
 - Matthew Butterick, [Butterick's Practical Typography](https://practicaltypography.com/), 2nd edition.
 
+- Jason Santa Maria, [On Web Typography)[https://abookapart.com/products/on-web-typography), 2014.
+
 ## Typography
 
 - http://thinkingwithtype.com/
