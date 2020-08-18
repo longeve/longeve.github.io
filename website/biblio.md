@@ -16,6 +16,14 @@
 
 - Jason Santa Maria, [On Web Typography)[https://abookapart.com/products/on-web-typography), 2014.
 
+- https://prowebtype.com/
+
+- http://book.webtypography.net/
+
+- https://typographyhandbook.com/
+
+- https://betterwebtype.com/web-typography-book/
+
 ## Typography
 
 - http://thinkingwithtype.com/
