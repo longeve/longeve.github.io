@@ -14,6 +14,10 @@
 
 - Matthew Butterick, [Butterick's Practical Typography](https://practicaltypography.com/), 2nd edition.
 
+## Typography
+
+- http://thinkingwithtype.com/
+
 ## PDF
 
 - [PDF: Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
