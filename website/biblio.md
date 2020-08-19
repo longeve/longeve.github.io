@@ -28,6 +28,8 @@
 
 - http://thinkingwithtype.com/
 
+- https://shadycharacters.co.uk/books/the-book/
+
 ## PDF
 
 - [PDF: Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/)
