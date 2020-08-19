@@ -10,6 +10,8 @@
 
 - [Ask an expert: Why is CSS... the way it is?](https://increment.com/frontend/ask-an-expert-why-is-css-the-way-it-is/), Increment issue 13, may 2020.
 
+- https://eager.io/blog/the-languages-which-almost-were-css/
+
 ## Web Typography
 
 - Matthew Butterick, [Butterick's Practical Typography](https://practicaltypography.com/), 2nd edition.
