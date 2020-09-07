@@ -12,6 +12,8 @@
 
 - Paul Graham, "[The Hundred-Year Language](http://www.paulgraham.com/hundred.html)", 2003. On Lisp and Arc.
 
+- Carol Nichols, "[Rust: In It for the Long Haul](https://learning.acm.org/techtalks/rust)" or "[Rust: A Language for the Next 40 Years](https://www.youtube.com/watch?v=A3AdN7U24iU)", 2019.
+
 
 ## Programs and Applications
 
