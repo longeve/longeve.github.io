@@ -22,3 +22,5 @@
 - [Emacs](https://en.wikipedia.org/wiki/Emacs), 1970s. Richard Stallman, [GNU Emacs](https://www.gnu.org/software/emacs/), 1985.
 
 - Donald Knuth, [TeX](https://en.wikipedia.org/wiki/TeX), 1978.
+
+- Standard Notes, [A Word on Longevity](https://standardnotes.org/longevity), 2018.
