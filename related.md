@@ -27,6 +27,8 @@
 
 - https://www.softwareheritage.org/
 
+- Standard Notes, [A Word on Longevity](https://standardnotes.org/longevity), 2018.
+
 
 ## Failed experiments
 
@@ -39,5 +41,4 @@
 - CICAP con Paolo Attivissimo, [Memorie digitali, dove finiranno le nostre testimonianze?](https://www.youtube.com/watch?v=Zek0E4zAArQ), 2021.
 
 
-- Standard Notes, [A Word on Longevity](https://standardnotes.org/longevity), 2018.
 
